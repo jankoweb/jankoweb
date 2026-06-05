@@ -1,1 +1,1 @@
-[My Dashboard](https://github.com/jankoweb/.github-private/edit/main/DASHBOARD.md) (private)
+https://github.com/jankoweb/.github-private/blob/main/DASHBOARD.md (private)
