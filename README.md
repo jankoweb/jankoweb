@@ -1,1 +1,1 @@
-[My links](https://github.com/jankoweb-org/.github-private/blob/main/DASHBOARD.md) (private access only)
+[My links](https://github.com/jankoweb/.github/blob/main/DASHBOARD.md) (private access only)
